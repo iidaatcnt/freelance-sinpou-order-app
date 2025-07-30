@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# フリーランス発注書アプリ
 
-## Getting Started
+このプロジェクトは、フリーランス保護新報に対応した発注書を簡単に作成・管理できるWebアプリケーションです。
 
-First, run the development server:
+## 概要
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+フリーランスエンジニア向けの発注書作成・管理を効率化します。必要な情報を入力するだけで、フリーランス保護新報に準拠した発注書を生成し、管理することができます。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 機能
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-   **発注書作成:** フリーランス保護新報に対応した発注書を簡単に作成できます。
+-   **情報入力:** 案件名、発注者情報、受注者情報、業務内容、報酬、納期などの情報を入力できます。
+-   **管理機能:** 作成した発注書を一覧で確認し、管理できます。
+-   **レスポンシブデザイン:** 様々なデバイスで利用しやすいように最適化されています。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 技術スタック
 
-## Learn More
+-   **フレームワーク:** Next.js
+-   **ライブラリ:** React
+-   **言語:** TypeScript
+-   **スタイリング:** Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## ライブデモ
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+（このプロジェクトがGitHub Pagesで公開されている場合、ここにURLを記載します。現状では不明なためプレースホルダーとします。）
